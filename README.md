@@ -8,19 +8,19 @@ This repository serves as a comprehensive, interview-ready, beginner-friendly, a
 
 ## 📊 Progress Dashboard
 
-![Total Solved](https://img.shields.io/badge/Total%20Solved-9-blue?style=for-the-badge&logo=leetcode)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-11-blue?style=for-the-badge&logo=leetcode)
 ![Easy](https://img.shields.io/badge/Easy-2-brightgreen?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-6-orange?style=for-the-badge)
-![Hard](https://img.shields.io/badge/Hard-1-red?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-7-orange?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard-2-red?style=for-the-badge)
 
 ### 📈 Summary Statistics
 
 | Category | Solved | Target | Completion |
 | :--- | :---: | :---: | :---: |
 | 🟢 **Easy** | `2` | - | - |
-| 🟡 **Medium** | `6` | - | - |
-| 🔴 **Hard** | `1` | - | - |
-| 🏆 **Total** | `9` | - | - |
+| 🟡 **Medium** | `7` | - | - |
+| 🔴 **Hard** | `2` | - | - |
+| 🏆 **Total** | `11` | - | - |
 
 ---
 
@@ -28,20 +28,21 @@ This repository serves as a comprehensive, interview-ready, beginner-friendly, a
 
 | Topic | Solved | Problems |
 | :--- | :---: | :--- |
-| 🔢 **Math** | `3` | [#0002 Add Two Numbers](./Medium/0002-Add-Two-Numbers/README.md), [#0007 Reverse Integer](./Medium/0007-Reverse-Integer/README.md), [#0009 Palindrome Number](./Easy/0009-Palindrome-Number/README.md) |
-| 🔤 **String** | `4` | [#0003 Longest Substring Without Repeating Characters](./Medium/0003-Longest-Substring-Without-Repeating-Characters/README.md), [#0005 Longest Palindromic Substring](./Medium/0005-Longest-Palindromic-Substring/README.md), [#0006 Zigzag Conversion](./Medium/0006-Zigzag-Conversion/README.md), [#0008 String to Integer (atoi)](./Medium/0008-String-to-Integer-atoi/README.md) |
+| 🔢 **Math** | `4` | [#0002 Add Two Numbers](./Medium/0002-Add-Two-Numbers/README.md), [#0007 Reverse Integer](./Medium/0007-Reverse-Integer/README.md), [#0009 Palindrome Number](./Easy/0009-Palindrome-Number/README.md), [#0012 Integer to Roman](./Medium/0012-Integer-to-Roman/README.md) |
+| 🔤 **String** | `6` | [#0003 Longest Substring Without Repeating Characters](./Medium/0003-Longest-Substring-Without-Repeating-Characters/README.md), [#0005 Longest Palindromic Substring](./Medium/0005-Longest-Palindromic-Substring/README.md), [#0006 Zigzag Conversion](./Medium/0006-Zigzag-Conversion/README.md), [#0008 String to Integer (atoi)](./Medium/0008-String-to-Integer-atoi/README.md), [#0010 Regular Expression Matching](./Hard/0010-Regular-Expression-Matching/README.md), [#0012 Integer to Roman](./Medium/0012-Integer-to-Roman/README.md) |
+| ⚡ **Greedy** | `1` | [#0012 Integer to Roman](./Medium/0012-Integer-to-Roman/README.md) |
+| 🧱 **Arrays & Hashing / Hash Table** | `3` | [#0001 Two Sum](./Easy/0001-Two-Sum/README.md), [#0003 Longest Substring Without Repeating Characters](./Medium/0003-Longest-Substring-Without-Repeating-Characters/README.md), [#0012 Integer to Roman](./Medium/0012-Integer-to-Roman/README.md) |
+| 📐 **Dynamic Programming** | `2` | [#0005 Longest Palindromic Substring](./Medium/0005-Longest-Palindromic-Substring/README.md), [#0010 Regular Expression Matching](./Hard/0010-Regular-Expression-Matching/README.md) |
+| 🔄 **Recursion** | `1` | [#0010 Regular Expression Matching](./Hard/0010-Regular-Expression-Matching/README.md) |
 | 🕹️ **Simulation** | `3` | [#0002 Add Two Numbers](./Medium/0002-Add-Two-Numbers/README.md), [#0006 Zigzag Conversion](./Medium/0006-Zigzag-Conversion/README.md), [#0008 String to Integer (atoi)](./Medium/0008-String-to-Integer-atoi/README.md) |
-| 🧱 **Arrays & Hashing / Hash Table** | `2` | [#0001 Two Sum](./Easy/0001-Two-Sum/README.md), [#0003 Longest Substring Without Repeating Characters](./Medium/0003-Longest-Substring-Without-Repeating-Characters/README.md) |
 | 🎯 **Binary Search** | `1` | [#0004 Median of Two Sorted Arrays](./Hard/0004-Median-of-Two-Sorted-Arrays/README.md) |
 | ⚔️ **Divide and Conquer** | `1` | [#0004 Median of Two Sorted Arrays](./Hard/0004-Median-of-Two-Sorted-Arrays/README.md) |
 | 🔗 **Linked List** | `1` | [#0002 Add Two Numbers](./Medium/0002-Add-Two-Numbers/README.md) |
 | 🪟 **Sliding Window** | `1` | [#0003 Longest Substring Without Repeating Characters](./Medium/0003-Longest-Substring-Without-Repeating-Characters/README.md) |
 | 👈👉 **Two Pointers** | `2` | [#0003 Longest Substring Without Repeating Characters](./Medium/0003-Longest-Substring-Without-Repeating-Characters/README.md), [#0005 Longest Palindromic Substring](./Medium/0005-Longest-Palindromic-Substring/README.md) |
-| 📐 **Dynamic Programming** | `1` | [#0005 Longest Palindromic Substring](./Medium/0005-Longest-Palindromic-Substring/README.md) |
 | 📚 **Stack & Queue** | `0` | None yet |
 | 🌲 **Trees & Binary Search Trees** | `0` | None yet |
 | 🕸️ **Graphs & BFS/DFS** | `0` | None yet |
-| ⚡ **Greedy** | `0` | None yet |
 | 📦 **Heap / Priority Queue** | `0` | None yet |
 | 🪓 **Backtracking** | `0` | None yet |
 | 🔢 **Bit Manipulation** | `0` | None yet |
@@ -52,11 +53,11 @@ This repository serves as a comprehensive, interview-ready, beginner-friendly, a
 
 | # | Problem Name | Difficulty | Topic | Solution | Explanation |
 | :---: | :--- | :---: | :--- | :---: | :---: |
+| **0012** | **Integer to Roman** | 🟡 Medium | Hash Table, Math, String, Greedy | [solution.py](./Medium/0012-Integer-to-Roman/solution.py) | [README.md](./Medium/0012-Integer-to-Roman/README.md) |
+| **0010** | **Regular Expression Matching** | 🔴 Hard | String, DP, Recursion | [solution.py](./Hard/0010-Regular-Expression-Matching/solution.py) | [README.md](./Hard/0010-Regular-Expression-Matching/README.md) |
 | **0009** | **Palindrome Number** | 🟢 Easy | Math | [solution.py](./Easy/0009-Palindrome-Number/solution.py) | [README.md](./Easy/0009-Palindrome-Number/README.md) |
 | **0008** | **String to Integer (atoi)** | 🟡 Medium | String, Simulation | [solution.py](./Medium/0008-String-to-Integer-atoi/solution.py) | [README.md](./Medium/0008-String-to-Integer-atoi/README.md) |
 | **0007** | **Reverse Integer** | 🟡 Medium | Math | [solution.py](./Medium/0007-Reverse-Integer/solution.py) | [README.md](./Medium/0007-Reverse-Integer/README.md) |
-| **0004** | **Median of Two Sorted Arrays** | 🔴 Hard | Binary Search, Array, Divide & Conquer | [solution.py](./Hard/0004-Median-of-Two-Sorted-Arrays/solution.py) | [README.md](./Hard/0004-Median-of-Two-Sorted-Arrays/README.md) |
-| **0001** | **Two Sum** | 🟢 Easy | Array, Hash Table | [solution.py](./Easy/0001-Two-Sum/solution.py) | [README.md](./Easy/0001-Two-Sum/README.md) |
 
 ---
 
@@ -68,20 +69,20 @@ LeetCode/
     ├── README.md                 # Main Python Repository Dashboard & Navigation
     ├── Easy/                     # Easy Difficulty Problems
     │   ├── 0001-Two-Sum/
-    │   │   ├── README.md         # Detailed 16-section breakdown
-    │   │   └── solution.py       # Well-commented Python solution
     │   └── 0009-Palindrome-Number/
-    │       ├── README.md         # Detailed 16-section breakdown
-    │       └── solution.py       # Well-commented Python solution
     ├── Medium/                   # Medium Difficulty Problems
     │   ├── 0002-Add-Two-Numbers/
     │   ├── 0003-Longest-Substring-Without-Repeating-Characters/
     │   ├── 0005-Longest-Palindromic-Substring/
     │   ├── 0006-Zigzag-Conversion/
     │   ├── 0007-Reverse-Integer/
-    │   └── 0008-String-to-Integer-atoi/
+    │   ├── 0008-String-to-Integer-atoi/
+    │   └── 0012-Integer-to-Roman/
+    │       ├── README.md         # Detailed 16-section breakdown
+    │       └── solution.py       # Well-commented Python solution
     ├── Hard/                     # Hard Difficulty Problems
-    │   └── 0004-Median-of-Two-Sorted-Arrays/
+    │   ├── 0004-Median-of-Two-Sorted-Arrays/
+    │   └── 0010-Regular-Expression-Matching/
     └── Assets/                   # Shared Diagrams, Templates, and Illustrations
 ```
 
@@ -103,15 +104,17 @@ Every problem directory contains:
 - [Medium: 0006 - Zigzag Conversion](./Medium/0006-Zigzag-Conversion/README.md)
 - [Medium: 0007 - Reverse Integer](./Medium/0007-Reverse-Integer/README.md)
 - [Medium: 0008 - String to Integer (atoi)](./Medium/0008-String-to-Integer-atoi/README.md)
+- [Medium: 0012 - Integer to Roman](./Medium/0012-Integer-to-Roman/README.md)
 - [Hard Problems](./Hard/)
 - [Hard: 0004 - Median of Two Sorted Arrays](./Hard/0004-Median-of-Two-Sorted-Arrays/README.md)
+- [Hard: 0010 - Regular Expression Matching](./Hard/0010-Regular-Expression-Matching/README.md)
 
 ---
 
 ## 🌿 Git Commit Conventions
 
 Commit messages in this repository strictly adhere to conventional commits:
-- `feat(math): add 0009-Palindrome-Number solution with explanation`
+- `feat(greedy): add 0012-Integer-to-Roman solution with explanation`
 - `docs: update repository progress and README`
 - `refactor(problem): optimize documentation or code formatting`
 
