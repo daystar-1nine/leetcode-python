@@ -8,9 +8,9 @@ This repository serves as a comprehensive, interview-ready, beginner-friendly, a
 
 ## 📊 Progress Dashboard
 
-![Total Solved](https://img.shields.io/badge/Total%20Solved-14-blue?style=for-the-badge&logo=leetcode)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-17-blue?style=for-the-badge&logo=leetcode)
 ![Easy](https://img.shields.io/badge/Easy-4-brightgreen?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-8-orange?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-11-orange?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-2-red?style=for-the-badge)
 
 ### 📈 Summary Statistics
@@ -18,9 +18,9 @@ This repository serves as a comprehensive, interview-ready, beginner-friendly, a
 | Category | Solved | Target | Completion |
 | :--- | :---: | :---: | :---: |
 | 🟢 **Easy** | `4` | - | - |
-| 🟡 **Medium** | `8` | - | - |
+| 🟡 **Medium** | `11` | - | - |
 | 🔴 **Hard** | `2` | - | - |
-| 🏆 **Total** | `14` | - | - |
+| 🏆 **Total** | `17` | - | - |
 
 ---
 
@@ -28,15 +28,16 @@ This repository serves as a comprehensive, interview-ready, beginner-friendly, a
 
 | Topic | Solved | Problems |
 | :--- | :---: | :--- |
-| 👈👉 **Two Pointers** | `3` | [#0003 Longest Substring Without Repeating Characters](./Medium/0003-Longest-Substring-Without-Repeating-Characters/README.md), [#0005 Longest Palindromic Substring](./Medium/0005-Longest-Palindromic-Substring/README.md), [#0015 3Sum](./Medium/0015-3Sum/README.md) |
-| 🧱 **Arrays & Hashing / Hash Table** | `4` | [#0001 Two Sum](./Easy/0001-Two-Sum/README.md), [#0003 Longest Substring Without Repeating Characters](./Medium/0003-Longest-Substring-Without-Repeating-Characters/README.md), [#0012 Integer to Roman](./Medium/0012-Integer-to-Roman/README.md), [#0013 Roman to Integer](./Easy/0013-Roman-to-Integer/README.md) |
-| 🔀 **Sorting** | `1` | [#0015 3Sum](./Medium/0015-3Sum/README.md) |
-| 🔤 **String** | `8` | [#0003 Longest Substring Without Repeating Characters](./Medium/0003-Longest-Substring-Without-Repeating-Characters/README.md), [#0005 Longest Palindromic Substring](./Medium/0005-Longest-Palindromic-Substring/README.md), [#0006 Zigzag Conversion](./Medium/0006-Zigzag-Conversion/README.md), [#0008 String to Integer (atoi)](./Medium/0008-String-to-Integer-atoi/README.md), [#0010 Regular Expression Matching](./Hard/0010-Regular-Expression-Matching/README.md), [#0012 Integer to Roman](./Medium/0012-Integer-to-Roman/README.md), [#0013 Roman to Integer](./Easy/0013-Roman-to-Integer/README.md), [#0014 Longest Common Prefix](./Easy/0014-Longest-Common-Prefix/README.md) |
+| 👈👉 **Two Pointers** | `5` | [#0003 Longest Substring Without Repeating Characters](./Medium/0003-Longest-Substring-Without-Repeating-Characters/README.md), [#0005 Longest Palindromic Substring](./Medium/0005-Longest-Palindromic-Substring/README.md), [#0015 3Sum](./Medium/0015-3Sum/README.md), [#0016 3Sum Closest](./Medium/0016-3Sum-Closest/README.md), [#0018 4Sum](./Medium/0018-4Sum/README.md) |
+| 🧱 **Arrays & Hashing / Hash Table** | `6` | [#0001 Two Sum](./Easy/0001-Two-Sum/README.md), [#0003 Longest Substring Without Repeating Characters](./Medium/0003-Longest-Substring-Without-Repeating-Characters/README.md), [#0012 Integer to Roman](./Medium/0012-Integer-to-Roman/README.md), [#0013 Roman to Integer](./Easy/0013-Roman-to-Integer/README.md), [#0016 3Sum Closest](./Medium/0016-3Sum-Closest/README.md), [#0018 4Sum](./Medium/0018-4Sum/README.md) |
+| 🔀 **Sorting** | `3` | [#0015 3Sum](./Medium/0015-3Sum/README.md), [#0016 3Sum Closest](./Medium/0016-3Sum-Closest/README.md), [#0018 4Sum](./Medium/0018-4Sum/README.md) |
+| 🪓 **Backtracking** | `1` | [#0017 Letter Combinations of a Phone Number](./Medium/0017-Letter-Combinations-of-a-Phone-Number/README.md) |
+| 🔤 **String** | `9` | [#0003 Longest Substring Without Repeating Characters](./Medium/0003-Longest-Substring-Without-Repeating-Characters/README.md), [#0005 Longest Palindromic Substring](./Medium/0005-Longest-Palindromic-Substring/README.md), [#0006 Zigzag Conversion](./Medium/0006-Zigzag-Conversion/README.md), [#0008 String to Integer (atoi)](./Medium/0008-String-to-Integer-atoi/README.md), [#0010 Regular Expression Matching](./Hard/0010-Regular-Expression-Matching/README.md), [#0012 Integer to Roman](./Medium/0012-Integer-to-Roman/README.md), [#0013 Roman to Integer](./Easy/0013-Roman-to-Integer/README.md), [#0014 Longest Common Prefix](./Easy/0014-Longest-Common-Prefix/README.md), [#0017 Letter Combinations of a Phone Number](./Medium/0017-Letter-Combinations-of-a-Phone-Number/README.md) |
 | 🔢 **Math** | `5` | [#0002 Add Two Numbers](./Medium/0002-Add-Two-Numbers/README.md), [#0007 Reverse Integer](./Medium/0007-Reverse-Integer/README.md), [#0009 Palindrome Number](./Easy/0009-Palindrome-Number/README.md), [#0012 Integer to Roman](./Medium/0012-Integer-to-Roman/README.md), [#0013 Roman to Integer](./Easy/0013-Roman-to-Integer/README.md) |
+| 🔄 **Recursion** | `2` | [#0010 Regular Expression Matching](./Hard/0010-Regular-Expression-Matching/README.md), [#0017 Letter Combinations of a Phone Number](./Medium/0017-Letter-Combinations-of-a-Phone-Number/README.md) |
 | 🌲 **Trie** | `1` | [#0014 Longest Common Prefix](./Easy/0014-Longest-Common-Prefix/README.md) |
 | ⚡ **Greedy** | `1` | [#0012 Integer to Roman](./Medium/0012-Integer-to-Roman/README.md) |
 | 📐 **Dynamic Programming** | `2` | [#0005 Longest Palindromic Substring](./Medium/0005-Longest-Palindromic-Substring/README.md), [#0010 Regular Expression Matching](./Hard/0010-Regular-Expression-Matching/README.md) |
-| 🔄 **Recursion** | `1` | [#0010 Regular Expression Matching](./Hard/0010-Regular-Expression-Matching/README.md) |
 | 🕹️ **Simulation** | `3` | [#0002 Add Two Numbers](./Medium/0002-Add-Two-Numbers/README.md), [#0006 Zigzag Conversion](./Medium/0006-Zigzag-Conversion/README.md), [#0008 String to Integer (atoi)](./Medium/0008-String-to-Integer-atoi/README.md) |
 | 🎯 **Binary Search** | `1` | [#0004 Median of Two Sorted Arrays](./Hard/0004-Median-of-Two-Sorted-Arrays/README.md) |
 | ⚔️ **Divide and Conquer** | `1` | [#0004 Median of Two Sorted Arrays](./Hard/0004-Median-of-Two-Sorted-Arrays/README.md) |
@@ -46,7 +47,6 @@ This repository serves as a comprehensive, interview-ready, beginner-friendly, a
 | 🌲 **Binary Search Trees** | `0` | None yet |
 | 🕸️ **Graphs & BFS/DFS** | `0` | None yet |
 | 📦 **Heap / Priority Queue** | `0` | None yet |
-| 🪓 **Backtracking** | `0` | None yet |
 | 🔢 **Bit Manipulation** | `0` | None yet |
 
 ---
@@ -55,11 +55,11 @@ This repository serves as a comprehensive, interview-ready, beginner-friendly, a
 
 | # | Problem Name | Difficulty | Topic | Solution | Explanation |
 | :---: | :--- | :---: | :--- | :---: | :---: |
+| **0018** | **4Sum** | 🟡 Medium | Array, Two Pointers, Sorting | [solution.py](./Medium/0018-4Sum/solution.py) | [README.md](./Medium/0018-4Sum/README.md) |
+| **0017** | **Letter Combinations of a Phone Number** | 🟡 Medium | Hash Table, String, Backtracking | [solution.py](./Medium/0017-Letter-Combinations-of-a-Phone-Number/solution.py) | [README.md](./Medium/0017-Letter-Combinations-of-a-Phone-Number/README.md) |
+| **0016** | **3Sum Closest** | 🟡 Medium | Array, Two Pointers, Sorting | [solution.py](./Medium/0016-3Sum-Closest/solution.py) | [README.md](./Medium/0016-3Sum-Closest/README.md) |
 | **0015** | **3Sum** | 🟡 Medium | Array, Two Pointers, Sorting | [solution.py](./Medium/0015-3Sum/solution.py) | [README.md](./Medium/0015-3Sum/README.md) |
 | **0014** | **Longest Common Prefix** | 🟢 Easy | String, Trie | [solution.py](./Easy/0014-Longest-Common-Prefix/solution.py) | [README.md](./Easy/0014-Longest-Common-Prefix/README.md) |
-| **0013** | **Roman to Integer** | 🟢 Easy | Hash Table, Math, String | [solution.py](./Easy/0013-Roman-to-Integer/solution.py) | [README.md](./Easy/0013-Roman-to-Integer/README.md) |
-| **0012** | **Integer to Roman** | 🟡 Medium | Hash Table, Math, String, Greedy | [solution.py](./Medium/0012-Integer-to-Roman/solution.py) | [README.md](./Medium/0012-Integer-to-Roman/README.md) |
-| **0010** | **Regular Expression Matching** | 🔴 Hard | String, DP, Recursion | [solution.py](./Hard/0010-Regular-Expression-Matching/solution.py) | [README.md](./Hard/0010-Regular-Expression-Matching/README.md) |
 
 ---
 
@@ -82,7 +82,10 @@ LeetCode/
     │   ├── 0007-Reverse-Integer/
     │   ├── 0008-String-to-Integer-atoi/
     │   ├── 0012-Integer-to-Roman/
-    │   └── 0015-3Sum/
+    │   ├── 0015-3Sum/
+    │   ├── 0016-3Sum-Closest/
+    │   ├── 0017-Letter-Combinations-of-a-Phone-Number/
+    │   └── 0018-4Sum/
     │       ├── README.md         # Detailed 16-section breakdown
     │       └── solution.py       # Well-commented Python solution
     ├── Hard/                     # Hard Difficulty Problems
@@ -113,6 +116,9 @@ Every problem directory contains:
 - [Medium: 0008 - String to Integer (atoi)](./Medium/0008-String-to-Integer-atoi/README.md)
 - [Medium: 0012 - Integer to Roman](./Medium/0012-Integer-to-Roman/README.md)
 - [Medium: 0015 - 3Sum](./Medium/0015-3Sum/README.md)
+- [Medium: 0016 - 3Sum Closest](./Medium/0016-3Sum-Closest/README.md)
+- [Medium: 0017 - Letter Combinations of a Phone Number](./Medium/0017-Letter-Combinations-of-a-Phone-Number/README.md)
+- [Medium: 0018 - 4Sum](./Medium/0018-4Sum/README.md)
 - [Hard Problems](./Hard/)
 - [Hard: 0004 - Median of Two Sorted Arrays](./Hard/0004-Median-of-Two-Sorted-Arrays/README.md)
 - [Hard: 0010 - Regular Expression Matching](./Hard/0010-Regular-Expression-Matching/README.md)
@@ -122,7 +128,7 @@ Every problem directory contains:
 ## 🌿 Git Commit Conventions
 
 Commit messages in this repository strictly adhere to conventional commits:
-- `feat(two-pointers): add 0015-3Sum solution with explanation`
+- `feat(two-pointers): add 0018-4Sum solution with explanation`
 - `docs: update repository progress and README`
 - `refactor(problem): optimize documentation or code formatting`
 
