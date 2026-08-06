@@ -8,19 +8,19 @@ This repository serves as a comprehensive, interview-ready, beginner-friendly, a
 
 ## 📊 Progress Dashboard
 
-![Total Solved](https://img.shields.io/badge/Total%20Solved-24-blue?style=for-the-badge&logo=leetcode)
-![Easy](https://img.shields.io/badge/Easy-7-brightgreen?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-13-orange?style=for-the-badge)
-![Hard](https://img.shields.io/badge/Hard-4-red?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-27-blue?style=for-the-badge&logo=leetcode)
+![Easy](https://img.shields.io/badge/Easy-8-brightgreen?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-14-orange?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard-5-red?style=for-the-badge)
 
 ### 📈 Summary Statistics
 
 | Category | Solved | Target | Completion |
 | :--- | :---: | :---: | :---: |
-| 🟢 **Easy** | `7` | - | - |
-| 🟡 **Medium** | `13` | - | - |
-| 🔴 **Hard** | `4` | - | - |
-| 🏆 **Total** | `24` | - | - |
+| 🟢 **Easy** | `8` | - | - |
+| 🟡 **Medium** | `14` | - | - |
+| 🔴 **Hard** | `5` | - | - |
+| 🏆 **Total** | `27` | - | - |
 
 ---
 
@@ -28,21 +28,21 @@ This repository serves as a comprehensive, interview-ready, beginner-friendly, a
 
 | Topic | Solved | Problems |
 | :--- | :---: | :--- |
+| 🔢 **Math** | `7` | [#0002 Add Two Numbers](./Medium/0002-Add-Two-Numbers/README.md), [#0007 Reverse Integer](./Medium/0007-Reverse-Integer/README.md), [#0009 Palindrome Number](./Easy/0009-Palindrome-Number/README.md), [#0012 Integer to Roman](./Medium/0012-Integer-to-Roman/README.md), [#0013 Roman to Integer](./Easy/0013-Roman-to-Integer/README.md), [#1406 Stone Game III](./Hard/1406-Stone-Game-III/README.md), [#3345 Smallest Divisible Digit Product I](./Easy/3345-Smallest-Divisible-Digit-Product-I/README.md) |
+| 🕹️ **Simulation** | `4` | [#0002 Add Two Numbers](./Medium/0002-Add-Two-Numbers/README.md), [#0006 Zigzag Conversion](./Medium/0006-Zigzag-Conversion/README.md), [#0008 String to Integer (atoi)](./Medium/0008-String-to-Integer-atoi/README.md), [#3345 Smallest Divisible Digit Product I](./Easy/3345-Smallest-Divisible-Digit-Product-I/README.md) |
+| 🔗 **Linked List** | `6` | [#0002 Add Two Numbers](./Medium/0002-Add-Two-Numbers/README.md), [#0019 Remove Nth Node From End of List](./Medium/0019-Remove-Nth-Node-From-End-of-List/README.md), [#0021 Merge Two Sorted Lists](./Easy/0021-Merge-Two-Sorted-Lists/README.md), [#0023 Merge k Sorted Lists](./Hard/0023-Merge-k-Sorted-Lists/README.md), [#0024 Swap Nodes in Pairs](./Medium/0024-Swap-Nodes-in-Pairs/README.md), [#0025 Reverse Nodes in k-Group](./Hard/0025-Reverse-Nodes-in-k-Group/README.md) |
+| 👈👉 **Two Pointers** | `9` | [#0003 Longest Substring Without Repeating Characters](./Medium/0003-Longest-Substring-Without-Repeating-Characters/README.md), [#0005 Longest Palindromic Substring](./Medium/0005-Longest-Palindromic-Substring/README.md), [#0015 3Sum](./Medium/0015-3Sum/README.md), [#0016 3Sum Closest](./Medium/0016-3Sum-Closest/README.md), [#0018 4Sum](./Medium/0018-4Sum/README.md), [#0019 Remove Nth Node From End of List](./Medium/0019-Remove-Nth-Node-From-End-of-List/README.md), [#0021 Merge Two Sorted Lists](./Easy/0021-Merge-Two-Sorted-Lists/README.md), [#0024 Swap Nodes in Pairs](./Medium/0024-Swap-Nodes-in-Pairs/README.md), [#0025 Reverse Nodes in k-Group](./Hard/0025-Reverse-Nodes-in-k-Group/README.md) |
+| 🔄 **Recursion** | `5` | [#0010 Regular Expression Matching](./Hard/0010-Regular-Expression-Matching/README.md), [#0017 Letter Combinations of a Phone Number](./Medium/0017-Letter-Combinations-of-a-Phone-Number/README.md), [#0021 Merge Two Sorted Lists](./Easy/0021-Merge-Two-Sorted-Lists/README.md), [#0024 Swap Nodes in Pairs](./Medium/0024-Swap-Nodes-in-Pairs/README.md), [#0025 Reverse Nodes in k-Group](./Hard/0025-Reverse-Nodes-in-k-Group/README.md) |
 | 🧱 **Arrays & Hashing / Hash Table** | `8` | [#0001 Two Sum](./Easy/0001-Two-Sum/README.md), [#0003 Longest Substring Without Repeating Characters](./Medium/0003-Longest-Substring-Without-Repeating-Characters/README.md), [#0012 Integer to Roman](./Medium/0012-Integer-to-Roman/README.md), [#0013 Roman to Integer](./Easy/0013-Roman-to-Integer/README.md), [#0016 3Sum Closest](./Medium/0016-3Sum-Closest/README.md), [#0018 4Sum](./Medium/0018-4Sum/README.md), [#0020 Valid Parentheses](./Easy/0020-Valid-Parentheses/README.md), [#1406 Stone Game III](./Hard/1406-Stone-Game-III/README.md), [#3731 Find Missing Elements](./Easy/3731-Find-Missing-Elements/README.md) |
-| 🔗 **Linked List** | `4` | [#0002 Add Two Numbers](./Medium/0002-Add-Two-Numbers/README.md), [#0019 Remove Nth Node From End of List](./Medium/0019-Remove-Nth-Node-From-End-of-List/README.md), [#0021 Merge Two Sorted Lists](./Easy/0021-Merge-Two-Sorted-Lists/README.md), [#0023 Merge k Sorted Lists](./Hard/0023-Merge-k-Sorted-Lists/README.md) |
 | ⚔️ **Divide and Conquer** | `2` | [#0004 Median of Two Sorted Arrays](./Hard/0004-Median-of-Two-Sorted-Arrays/README.md), [#0023 Merge k Sorted Lists](./Hard/0023-Merge-k-Sorted-Lists/README.md) |
 | 🪓 **Backtracking** | `2` | [#0017 Letter Combinations of a Phone Number](./Medium/0017-Letter-Combinations-of-a-Phone-Number/README.md), [#0022 Generate Parentheses](./Medium/0022-Generate-Parentheses/README.md) |
 | 📐 **Dynamic Programming** | `4` | [#0005 Longest Palindromic Substring](./Medium/0005-Longest-Palindromic-Substring/README.md), [#0010 Regular Expression Matching](./Hard/0010-Regular-Expression-Matching/README.md), [#0022 Generate Parentheses](./Medium/0022-Generate-Parentheses/README.md), [#1406 Stone Game III](./Hard/1406-Stone-Game-III/README.md) |
 | 🔤 **String** | `11` | [#0003 Longest Substring Without Repeating Characters](./Medium/0003-Longest-Substring-Without-Repeating-Characters/README.md), [#0005 Longest Palindromic Substring](./Medium/0005-Longest-Palindromic-Substring/README.md), [#0006 Zigzag Conversion](./Medium/0006-Zigzag-Conversion/README.md), [#0008 String to Integer (atoi)](./Medium/0008-String-to-Integer-atoi/README.md), [#0010 Regular Expression Matching](./Hard/0010-Regular-Expression-Matching/README.md), [#0012 Integer to Roman](./Medium/0012-Integer-to-Roman/README.md), [#0013 Roman to Integer](./Easy/0013-Roman-to-Integer/README.md), [#0014 Longest Common Prefix](./Easy/0014-Longest-Common-Prefix/README.md), [#0017 Letter Combinations of a Phone Number](./Medium/0017-Letter-Combinations-of-a-Phone-Number/README.md), [#0020 Valid Parentheses](./Easy/0020-Valid-Parentheses/README.md), [#0022 Generate Parentheses](./Medium/0022-Generate-Parentheses/README.md) |
 | 🎮 **Game Theory** | `1` | [#1406 Stone Game III](./Hard/1406-Stone-Game-III/README.md) |
-| 🔢 **Math** | `6` | [#0002 Add Two Numbers](./Medium/0002-Add-Two-Numbers/README.md), [#0007 Reverse Integer](./Medium/0007-Reverse-Integer/README.md), [#0009 Palindrome Number](./Easy/0009-Palindrome-Number/README.md), [#0012 Integer to Roman](./Medium/0012-Integer-to-Roman/README.md), [#0013 Roman to Integer](./Easy/0013-Roman-to-Integer/README.md), [#1406 Stone Game III](./Hard/1406-Stone-Game-III/README.md) |
-| 👈👉 **Two Pointers** | `7` | [#0003 Longest Substring Without Repeating Characters](./Medium/0003-Longest-Substring-Without-Repeating-Characters/README.md), [#0005 Longest Palindromic Substring](./Medium/0005-Longest-Palindromic-Substring/README.md), [#0015 3Sum](./Medium/0015-3Sum/README.md), [#0016 3Sum Closest](./Medium/0016-3Sum-Closest/README.md), [#0018 4Sum](./Medium/0018-4Sum/README.md), [#0019 Remove Nth Node From End of List](./Medium/0019-Remove-Nth-Node-From-End-of-List/README.md), [#0021 Merge Two Sorted Lists](./Easy/0021-Merge-Two-Sorted-Lists/README.md) |
-| 🔄 **Recursion** | `3` | [#0010 Regular Expression Matching](./Hard/0010-Regular-Expression-Matching/README.md), [#0017 Letter Combinations of a Phone Number](./Medium/0017-Letter-Combinations-of-a-Phone-Number/README.md), [#0021 Merge Two Sorted Lists](./Easy/0021-Merge-Two-Sorted-Lists/README.md) |
 | 📚 **Stack & Queue** | `1` | [#0020 Valid Parentheses](./Easy/0020-Valid-Parentheses/README.md) |
 | 🔀 **Sorting / Merge Sort** | `4` | [#0015 3Sum](./Medium/0015-3Sum/README.md), [#0016 3Sum Closest](./Medium/0016-3Sum-Closest/README.md), [#0018 4Sum](./Medium/0018-4Sum/README.md), [#0023 Merge k Sorted Lists](./Hard/0023-Merge-k-Sorted-Lists/README.md) |
 | 🌲 **Trie** | `1` | [#0014 Longest Common Prefix](./Easy/0014-Longest-Common-Prefix/README.md) |
 | ⚡ **Greedy** | `1` | [#0012 Integer to Roman](./Medium/0012-Integer-to-Roman/README.md) |
-| 🕹️ **Simulation** | `3` | [#0002 Add Two Numbers](./Medium/0002-Add-Two-Numbers/README.md), [#0006 Zigzag Conversion](./Medium/0006-Zigzag-Conversion/README.md), [#0008 String to Integer (atoi)](./Medium/0008-String-to-Integer-atoi/README.md) |
 | 🎯 **Binary Search** | `1` | [#0004 Median of Two Sorted Arrays](./Hard/0004-Median-of-Two-Sorted-Arrays/README.md) |
 | 🪟 **Sliding Window** | `1` | [#0003 Longest Substring Without Repeating Characters](./Medium/0003-Longest-Substring-Without-Repeating-Characters/README.md) |
 | 🌲 **Binary Search Trees** | `0` | None yet |
@@ -56,11 +56,11 @@ This repository serves as a comprehensive, interview-ready, beginner-friendly, a
 
 | # | Problem Name | Difficulty | Topic | Solution | Explanation |
 | :---: | :--- | :---: | :--- | :---: | :---: |
+| **3345** | **Smallest Divisible Digit Product I** | 🟢 Easy | Math, Simulation | [solution.py](./Easy/3345-Smallest-Divisible-Digit-Product-I/solution.py) | [README.md](./Easy/3345-Smallest-Divisible-Digit-Product-I/README.md) |
+| **0025** | **Reverse Nodes in k-Group** | 🔴 Hard | Linked List, Two Pointers, Recursion | [solution.py](./Hard/0025-Reverse-Nodes-in-k-Group/solution.py) | [README.md](./Hard/0025-Reverse-Nodes-in-k-Group/README.md) |
+| **0024** | **Swap Nodes in Pairs** | 🟡 Medium | Linked List, Recursion, Two Pointers | [solution.py](./Medium/0024-Swap-Nodes-in-Pairs/solution.py) | [README.md](./Medium/0024-Swap-Nodes-in-Pairs/README.md) |
 | **3731** | **Find Missing Elements** | 🟢 Easy | Array, Hash Table | [solution.py](./Easy/3731-Find-Missing-Elements/solution.py) | [README.md](./Easy/3731-Find-Missing-Elements/README.md) |
 | **0023** | **Merge k Sorted Lists** | 🔴 Hard | Linked List, Divide & Conquer, Merge Sort | [solution.py](./Hard/0023-Merge-k-Sorted-Lists/solution.py) | [README.md](./Hard/0023-Merge-k-Sorted-Lists/README.md) |
-| **0022** | **Generate Parentheses** | 🟡 Medium | String, DP, Backtracking | [solution.py](./Medium/0022-Generate-Parentheses/solution.py) | [README.md](./Medium/0022-Generate-Parentheses/README.md) |
-| **1406** | **Stone Game III** | 🔴 Hard | Array, DP, Game Theory | [solution.py](./Hard/1406-Stone-Game-III/solution.py) | [README.md](./Hard/1406-Stone-Game-III/README.md) |
-| **0021** | **Merge Two Sorted Lists** | 🟢 Easy | Linked List, Two Pointers, Recursion | [solution.py](./Easy/0021-Merge-Two-Sorted-Lists/solution.py) | [README.md](./Easy/0021-Merge-Two-Sorted-Lists/README.md) |
 
 ---
 
@@ -77,9 +77,10 @@ LeetCode/
     │   ├── 0014-Longest-Common-Prefix/
     │   ├── 0020-Valid-Parentheses/
     │   ├── 0021-Merge-Two-Sorted-Lists/
+    │   ├── 3345-Smallest-Divisible-Digit-Product-I/
+    │   │   ├── README.md         # Detailed 16-section breakdown
+    │   │   └── solution.py       # Well-commented Python solution
     │   └── 3731-Find-Missing-Elements/
-    │       ├── README.md         # Detailed 16-section breakdown
-    │       └── solution.py       # Well-commented Python solution
     ├── Medium/                   # Medium Difficulty Problems
     │   ├── 0002-Add-Two-Numbers/
     │   ├── 0003-Longest-Substring-Without-Repeating-Characters/
@@ -93,11 +94,13 @@ LeetCode/
     │   ├── 0017-Letter-Combinations-of-a-Phone-Number/
     │   ├── 0018-4Sum/
     │   ├── 0019-Remove-Nth-Node-From-End-of-List/
-    │   └── 0022-Generate-Parentheses/
+    │   ├── 0022-Generate-Parentheses/
+    │   └── 0024-Swap-Nodes-in-Pairs/
     ├── Hard/                     # Hard Difficulty Problems
     │   ├── 0004-Median-of-Two-Sorted-Arrays/
     │   ├── 0010-Regular-Expression-Matching/
     │   ├── 0023-Merge-k-Sorted-Lists/
+    │   ├── 0025-Reverse-Nodes-in-k-Group/
     │   └── 1406-Stone-Game-III/
     └── Assets/                   # Shared Diagrams, Templates, and Illustrations
 ```
@@ -117,6 +120,7 @@ Every problem directory contains:
 - [Easy: 0014 - Longest Common Prefix](./Easy/0014-Longest-Common-Prefix/README.md)
 - [Easy: 0020 - Valid Parentheses](./Easy/0020-Valid-Parentheses/README.md)
 - [Easy: 0021 - Merge Two Sorted Lists](./Easy/0021-Merge-Two-Sorted-Lists/README.md)
+- [Easy: 3345 - Smallest Divisible Digit Product I](./Easy/3345-Smallest-Divisible-Digit-Product-I/README.md)
 - [Easy: 3731 - Find Missing Elements](./Easy/3731-Find-Missing-Elements/README.md)
 - [Medium Problems](./Medium/)
 - [Medium: 0002 - Add Two Numbers](./Medium/0002-Add-Two-Numbers/README.md)
@@ -132,10 +136,12 @@ Every problem directory contains:
 - [Medium: 0018 - 4Sum](./Medium/0018-4Sum/README.md)
 - [Medium: 0019 - Remove Nth Node From End of List](./Medium/0019-Remove-Nth-Node-From-End-of-List/README.md)
 - [Medium: 0022 - Generate Parentheses](./Medium/0022-Generate-Parentheses/README.md)
+- [Medium: 0024 - Swap Nodes in Pairs](./Medium/0024-Swap-Nodes-in-Pairs/README.md)
 - [Hard Problems](./Hard/)
 - [Hard: 0004 - Median of Two Sorted Arrays](./Hard/0004-Median-of-Two-Sorted-Arrays/README.md)
 - [Hard: 0010 - Regular Expression Matching](./Hard/0010-Regular-Expression-Matching/README.md)
 - [Hard: 0023 - Merge k Sorted Lists](./Hard/0023-Merge-k-Sorted-Lists/README.md)
+- [Hard: 0025 - Reverse Nodes in k-Group](./Hard/0025-Reverse-Nodes-in-k-Group/README.md)
 - [Hard: 1406 - Stone Game III](./Hard/1406-Stone-Game-III/README.md)
 
 ---
@@ -143,7 +149,7 @@ Every problem directory contains:
 ## 🌿 Git Commit Conventions
 
 Commit messages in this repository strictly adhere to conventional commits:
-- `feat(hash-table): add 3731-Find-Missing-Elements solution with explanation`
+- `feat(math): add 3345-Smallest-Divisible-Digit-Product-I solution with explanation`
 - `docs: update repository progress and README`
 - `refactor(problem): optimize documentation or code formatting`
 
