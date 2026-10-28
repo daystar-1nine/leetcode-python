@@ -8,8 +8,8 @@ This repository serves as a comprehensive, interview-ready, beginner-friendly, a
 
 ## 📊 Progress Dashboard
 
-![Total Solved](https://img.shields.io/badge/Total%20Solved-33-blue?style=for-the-badge&logo=leetcode)
-![Easy](https://img.shields.io/badge/Easy-9-brightgreen?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-34-blue?style=for-the-badge&logo=leetcode)
+![Easy](https://img.shields.io/badge/Easy-10-brightgreen?style=for-the-badge)
 ![Medium](https://img.shields.io/badge/Medium-18-orange?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-6-red?style=for-the-badge)
 
@@ -17,16 +17,16 @@ This repository serves as a comprehensive, interview-ready, beginner-friendly, a
 
 | Category | Solved | Target | Completion |
 | :--- | :---: | :---: | :---: |
-| 🟢 **Easy** | `9` | - | - |
+| 🟢 **Easy** | `10` | - | - |
 | 🟡 **Medium** | `18` | - | - |
 | 🔴 **Hard** | `6` | - | - |
-| 🏆 **Total** | `33` | - | - |
+| 🏆 **Total** | `34` | - | - |
 
 ---
 
 ## 🧭 Quick Navigation
 
-- 🟢 **[Easy Problems Directory](./Easy/)** (`9` Solved)
+- 🟢 **[Easy Problems Directory](./Easy/)** (`10` Solved)
 - 🟡 **[Medium Problems Directory](./Medium/)** (`18` Solved)
 - 🔴 **[Hard Problems Directory](./Hard/)** (`6` Solved)
 - 📚 **[Complete Solutions Index](#-complete-solutions-index)**
@@ -39,9 +39,9 @@ This repository serves as a comprehensive, interview-ready, beginner-friendly, a
 
 | Topic | Solved | Problems |
 | :--- | :---: | :--- |
-| 🧱 **Array** | `12` | [#0001 Two Sum](./Easy/0001-Two-Sum/README.md), [#0004 Median of Two Sorted Arrays](./Hard/0004-Median-of-Two-Sorted-Arrays/README.md), [#0015 3Sum](./Medium/0015-3Sum/README.md), [#0016 3Sum Closest](./Medium/0016-3Sum-Closest/README.md), [#0018 4Sum](./Medium/0018-4Sum/README.md), [#0026 Remove Duplicates from Sorted Array](./Easy/0026-Remove-Duplicates-from-Sorted-Array/README.md), [#1140 Stone Game II](./Medium/1140-Stone-Game-II/README.md), [#1386 Cinema Seat Allocation](./Medium/1386-Cinema-Seat-Allocation/README.md), [#1406 Stone Game III](./Hard/1406-Stone-Game-III/README.md), [#2029 Stone Game IX](./Medium/2029-Stone-Game-IX/README.md), [#3702 Longest Subsequence With Non-Zero Bitwise XOR](./Medium/3702-Longest-Subsequence-With-Non-Zero-Bitwise-XOR/README.md), [#3731 Find Missing Elements](./Easy/3731-Find-Missing-Elements/README.md) |
+| 🧱 **Array** | `13` | [#0001 Two Sum](./Easy/0001-Two-Sum/README.md), [#0004 Median of Two Sorted Arrays](./Hard/0004-Median-of-Two-Sorted-Arrays/README.md), [#0015 3Sum](./Medium/0015-3Sum/README.md), [#0016 3Sum Closest](./Medium/0016-3Sum-Closest/README.md), [#0018 4Sum](./Medium/0018-4Sum/README.md), [#0026 Remove Duplicates from Sorted Array](./Easy/0026-Remove-Duplicates-from-Sorted-Array/README.md), [#0027 Remove Element](./Easy/0027-Remove-Element/README.md), [#1140 Stone Game II](./Medium/1140-Stone-Game-II/README.md), [#1386 Cinema Seat Allocation](./Medium/1386-Cinema-Seat-Allocation/README.md), [#1406 Stone Game III](./Hard/1406-Stone-Game-III/README.md), [#2029 Stone Game IX](./Medium/2029-Stone-Game-IX/README.md), [#3702 Longest Subsequence With Non-Zero Bitwise XOR](./Medium/3702-Longest-Subsequence-With-Non-Zero-Bitwise-XOR/README.md), [#3731 Find Missing Elements](./Easy/3731-Find-Missing-Elements/README.md) |
 | #️⃣ **Hash Table** | `7` | [#0001 Two Sum](./Easy/0001-Two-Sum/README.md), [#0003 Longest Substring Without Repeating Characters](./Medium/0003-Longest-Substring-Without-Repeating-Characters/README.md), [#0012 Integer to Roman](./Medium/0012-Integer-to-Roman/README.md), [#0013 Roman to Integer](./Easy/0013-Roman-to-Integer/README.md), [#0017 Letter Combinations of a Phone Number](./Medium/0017-Letter-Combinations-of-a-Phone-Number/README.md), [#1386 Cinema Seat Allocation](./Medium/1386-Cinema-Seat-Allocation/README.md), [#3731 Find Missing Elements](./Easy/3731-Find-Missing-Elements/README.md) |
-| 👈👉 **Two Pointers** | `10` | [#0003 Longest Substring Without Repeating Characters](./Medium/0003-Longest-Substring-Without-Repeating-Characters/README.md), [#0005 Longest Palindromic Substring](./Medium/0005-Longest-Palindromic-Substring/README.md), [#0015 3Sum](./Medium/0015-3Sum/README.md), [#0016 3Sum Closest](./Medium/0016-3Sum-Closest/README.md), [#0018 4Sum](./Medium/0018-4Sum/README.md), [#0019 Remove Nth Node From End of List](./Medium/0019-Remove-Nth-Node-From-End-of-List/README.md), [#0021 Merge Two Sorted Lists](./Easy/0021-Merge-Two-Sorted-Lists/README.md), [#0024 Swap Nodes in Pairs](./Medium/0024-Swap-Nodes-in-Pairs/README.md), [#0025 Reverse Nodes in k-Group](./Hard/0025-Reverse-Nodes-in-k-Group/README.md), [#0026 Remove Duplicates from Sorted Array](./Easy/0026-Remove-Duplicates-from-Sorted-Array/README.md) |
+| 👈👉 **Two Pointers** | `11` | [#0003 Longest Substring Without Repeating Characters](./Medium/0003-Longest-Substring-Without-Repeating-Characters/README.md), [#0005 Longest Palindromic Substring](./Medium/0005-Longest-Palindromic-Substring/README.md), [#0015 3Sum](./Medium/0015-3Sum/README.md), [#0016 3Sum Closest](./Medium/0016-3Sum-Closest/README.md), [#0018 4Sum](./Medium/0018-4Sum/README.md), [#0019 Remove Nth Node From End of List](./Medium/0019-Remove-Nth-Node-From-End-of-List/README.md), [#0021 Merge Two Sorted Lists](./Easy/0021-Merge-Two-Sorted-Lists/README.md), [#0024 Swap Nodes in Pairs](./Medium/0024-Swap-Nodes-in-Pairs/README.md), [#0025 Reverse Nodes in k-Group](./Hard/0025-Reverse-Nodes-in-k-Group/README.md), [#0026 Remove Duplicates from Sorted Array](./Easy/0026-Remove-Duplicates-from-Sorted-Array/README.md), [#0027 Remove Element](./Easy/0027-Remove-Element/README.md) |
 | 🔤 **String** | `11` | [#0003 Longest Substring Without Repeating Characters](./Medium/0003-Longest-Substring-Without-Repeating-Characters/README.md), [#0005 Longest Palindromic Substring](./Medium/0005-Longest-Palindromic-Substring/README.md), [#0006 Zigzag Conversion](./Medium/0006-Zigzag-Conversion/README.md), [#0008 String to Integer (atoi)](./Medium/0008-String-to-Integer-atoi/README.md), [#0010 Regular Expression Matching](./Hard/0010-Regular-Expression-Matching/README.md), [#0012 Integer to Roman](./Medium/0012-Integer-to-Roman/README.md), [#0013 Roman to Integer](./Easy/0013-Roman-to-Integer/README.md), [#0014 Longest Common Prefix](./Easy/0014-Longest-Common-Prefix/README.md), [#0017 Letter Combinations of a Phone Number](./Medium/0017-Letter-Combinations-of-a-Phone-Number/README.md), [#0020 Valid Parentheses](./Easy/0020-Valid-Parentheses/README.md), [#0022 Generate Parentheses](./Medium/0022-Generate-Parentheses/README.md) |
 | 🔢 **Math** | `10` | [#0002 Add Two Numbers](./Medium/0002-Add-Two-Numbers/README.md), [#0007 Reverse Integer](./Medium/0007-Reverse-Integer/README.md), [#0009 Palindrome Number](./Easy/0009-Palindrome-Number/README.md), [#0012 Integer to Roman](./Medium/0012-Integer-to-Roman/README.md), [#0013 Roman to Integer](./Easy/0013-Roman-to-Integer/README.md), [#1140 Stone Game II](./Medium/1140-Stone-Game-II/README.md), [#1406 Stone Game III](./Hard/1406-Stone-Game-III/README.md), [#1510 Stone Game IV](./Hard/1510-Stone-Game-IV/README.md), [#2029 Stone Game IX](./Medium/2029-Stone-Game-IX/README.md), [#3345 Smallest Divisible Digit Product I](./Easy/3345-Smallest-Divisible-Digit-Product-I/README.md) |
 | 📐 **Dynamic Programming** | `6` | [#0005 Longest Palindromic Substring](./Medium/0005-Longest-Palindromic-Substring/README.md), [#0010 Regular Expression Matching](./Hard/0010-Regular-Expression-Matching/README.md), [#0022 Generate Parentheses](./Medium/0022-Generate-Parentheses/README.md), [#1140 Stone Game II](./Medium/1140-Stone-Game-II/README.md), [#1406 Stone Game III](./Hard/1406-Stone-Game-III/README.md), [#1510 Stone Game IV](./Hard/1510-Stone-Game-IV/README.md) |
@@ -68,6 +68,7 @@ This repository serves as a comprehensive, interview-ready, beginner-friendly, a
 
 | # | Problem Name | Difficulty | Topic | Solution | Explanation |
 | :---: | :--- | :---: | :--- | :---: | :---: |
+| **0027** | **Remove Element** | 🟢 Easy | Array, Two Pointers | [solution.py](./Easy/0027-Remove-Element/solution.py) | [README.md](./Easy/0027-Remove-Element/README.md) |
 | **1386** | **Cinema Seat Allocation** | 🟡 Medium | Array, Hash Table, Bit Manipulation, Greedy | [solution.py](./Medium/1386-Cinema-Seat-Allocation/solution.py) | [README.md](./Medium/1386-Cinema-Seat-Allocation/README.md) |
 | **2029** | **Stone Game IX** | 🟡 Medium | Array, Math, Greedy, Counting, Game Theory | [solution.py](./Medium/2029-Stone-Game-IX/solution.py) | [README.md](./Medium/2029-Stone-Game-IX/README.md) |
 | **3702** | **Longest Subsequence With Non-Zero Bitwise XOR** | 🟡 Medium | Array, Bit Manipulation | [solution.py](./Medium/3702-Longest-Subsequence-With-Non-Zero-Bitwise-XOR/solution.py) | [README.md](./Medium/3702-Longest-Subsequence-With-Non-Zero-Bitwise-XOR/README.md) |
@@ -105,6 +106,7 @@ This repository serves as a comprehensive, interview-ready, beginner-friendly, a
 | **0024** | [Swap Nodes in Pairs](./Medium/0024-Swap-Nodes-in-Pairs/README.md) | 🟡 Medium | Linked List, Recursion, Two Pointers | [solution.py](./Medium/0024-Swap-Nodes-in-Pairs/solution.py) | [README.md](./Medium/0024-Swap-Nodes-in-Pairs/README.md) |
 | **0025** | [Reverse Nodes in k-Group](./Hard/0025-Reverse-Nodes-in-k-Group/README.md) | 🔴 Hard | Linked List, Recursion, Two Pointers | [solution.py](./Hard/0025-Reverse-Nodes-in-k-Group/solution.py) | [README.md](./Hard/0025-Reverse-Nodes-in-k-Group/README.md) |
 | **0026** | [Remove Duplicates from Sorted Array](./Easy/0026-Remove-Duplicates-from-Sorted-Array/README.md) | 🟢 Easy | Array, Two Pointers | [solution.py](./Easy/0026-Remove-Duplicates-from-Sorted-Array/solution.py) | [README.md](./Easy/0026-Remove-Duplicates-from-Sorted-Array/README.md) |
+| **0027** | [Remove Element](./Easy/0027-Remove-Element/README.md) | 🟢 Easy | Array, Two Pointers | [solution.py](./Easy/0027-Remove-Element/solution.py) | [README.md](./Easy/0027-Remove-Element/README.md) |
 | **1140** | [Stone Game II](./Medium/1140-Stone-Game-II/README.md) | 🟡 Medium | Array, Math, Dynamic Programming, Game Theory, Prefix Sum | [solution.py](./Medium/1140-Stone-Game-II/solution.py) | [README.md](./Medium/1140-Stone-Game-II/README.md) |
 | **1386** | [Cinema Seat Allocation](./Medium/1386-Cinema-Seat-Allocation/README.md) | 🟡 Medium | Array, Hash Table, Bit Manipulation, Greedy | [solution.py](./Medium/1386-Cinema-Seat-Allocation/solution.py) | [README.md](./Medium/1386-Cinema-Seat-Allocation/README.md) |
 | **1406** | [Stone Game III](./Hard/1406-Stone-Game-III/README.md) | 🔴 Hard | Array, Math, Dynamic Programming, Game Theory | [solution.py](./Hard/1406-Stone-Game-III/solution.py) | [README.md](./Hard/1406-Stone-Game-III/README.md) |
@@ -122,7 +124,7 @@ This repository serves as a comprehensive, interview-ready, beginner-friendly, a
 LeetCode/
 └── Python/
     ├── README.md                 # Main Python Repository Dashboard & Navigation
-    ├── Easy/                     # Easy Difficulty Problems (9 Solved)
+    ├── Easy/                     # Easy Difficulty Problems (10 Solved)
     │   ├── 0001-Two-Sum/
     │   ├── 0009-Palindrome-Number/
     │   ├── 0013-Roman-to-Integer/
@@ -130,6 +132,7 @@ LeetCode/
     │   ├── 0020-Valid-Parentheses/
     │   ├── 0021-Merge-Two-Sorted-Lists/
     │   ├── 0026-Remove-Duplicates-from-Sorted-Array/
+    │   ├── 0027-Remove-Element/
     │   ├── 3345-Smallest-Divisible-Digit-Product-I/
     │   └── 3731-Find-Missing-Elements/
     ├── Medium/                   # Medium Difficulty Problems (18 Solved)
